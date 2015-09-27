@@ -1,0 +1,9 @@
+wp-content/uploads/
+wp-config.php
+.htaccess
+*backup*
+wp-content/upgrade/
+aubreypwd.com-live/
+.sass-cache/
+node_modules/
+wp-content/debug.log
